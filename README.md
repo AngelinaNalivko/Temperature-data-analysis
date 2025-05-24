@@ -12,7 +12,7 @@ Station_id \t Year \t Measured Temperature \t Sensor Quality
 
 ## Objectives
 
-**Using PySpark and MongoDB**, the following tasks are performed:
+Using PySpark and MongoDB, the following tasks are performed:
 
 1. Compute the average temperature per year for records with sensor quality ≥ 0.95.
 2. For each year, find the station with the highest and lowest temperature.
